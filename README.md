@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Wilmar 👋
 
-<!--
-**axecrow-12/axecrow-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Software Engineering Student at Harare Institute of Technology  
+💻 Passionate about Mobile Development, Backend Systems & Real-World Solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 📍 LocationTracker
+Android app with GPS tracking, geofencing, and navigation  
+- FusedLocationProviderClient  
+- Geofencing API  
+- Room Database  
+- Google Maps Integration  
+
+### 🌾 KuraVizor
+Offline-first farm intelligence platform  
+- On-device ML for crop disease detection  
+- Built for low-connectivity rural environments  
+
+### 🌱 Agrovia
+Agriculture collaboration & marketplace platform  
+- Resource sharing  
+- Farmer-to-consumer marketplace  
+- Predictive pricing analytics  
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** React, HTML, CSS, Tailwind  
+**Backend:** Spring Boot, Node.js  
+**Mobile:** Android (Java), React Native  
+**Database:** MySQL, PostgreSQL, Prisma  
+**Tools:** GitHub, Docker, Firebase  
+
+---
+
+## 📌 Interests
+
+- Mobile App Development  
+- AI in Agriculture  
+- Offline-first Systems  
+- Scalable Backend Architectures  
+
+---
+
+## 📫 Contact
+
+- Email: (your email here)
