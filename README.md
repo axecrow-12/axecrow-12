@@ -48,4 +48,4 @@ Agriculture collaboration & marketplace platform
 
 ## 📫 Contact
 
-- Email: (axecrow12@gnail.com)
+- Email: (axecrow12@gmail.com)
